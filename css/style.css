@@ -869,7 +869,8 @@ h4,.h4{
     color:#fff
 }
 .section-intro{
-    max-width:460px
+    max-width:1760px;
+    padding-bottom: 15px
 }
 .section-intro .intro-title{
     display:inline-block;
@@ -951,7 +952,7 @@ h4,.h4{
     opacity:1 !important
 }
 .featured-carousel .owl-nav button i,.featured-carousel .owl-nav button span{
-    color:#fea295
+    color:#f5838d
 }
 .featured-carousel .owl-nav button:hover{
     background:transparent !important
@@ -2219,7 +2220,7 @@ h4,.h4{
 }
 .button{
     display:inline-block;
-    background-color:#e22104;
+    background-color:#f5838d;
     color:#fff;
     font-size:14px;
     font-weight:600;
