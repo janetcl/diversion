@@ -651,24 +651,24 @@ h4,.h4{
     }
 }
 .hero-title{
-    font-size:35px;
+    font-size:40px;
     font-weight:600;
     margin-bottom:25px;
     line-height:0.929
 }
 @media (min-width: 840px){
     .hero-title{
-        margin-bottom:50px
+        margin-bottom:30px
     }
 }
 @media (min-width: 991px){
     .hero-title{
-        font-size:45px
+        font-size:50px
     }
 }
 @media (min-width: 1140px){
     .hero-title{
-        font-size:65px
+        font-size:75px
     }
 }
 .hero-info{
