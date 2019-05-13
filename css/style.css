@@ -636,18 +636,18 @@ h4,.h4{
         margin-bottom:0;
         width:50%;
         float:left;
-        padding-left:7%;
+        padding-left:5%;
         padding-top:10%
     }
 }
 @media (min-width: 1400px){
     .hero-left{
-        padding-left:18%
+        padding-left:13%
     }
 }
 @media (min-width: 1840px){
     .hero-left{
-        padding-left:21%
+        padding-left:18%
     }
 }
 .hero-title{
@@ -2263,7 +2263,7 @@ button.button{
     border-radius:5px
 }
 .footer-area{
-    padding:120px 0px 120px;
+    padding:100px 0px 100px;
     background:#fff8f7
 }
 @media (max-width: 991px){
@@ -2370,7 +2370,7 @@ button.button{
     box-shadow:none
 }
 .footer-area .footer-bottom{
-    margin-top:70px
+    margin-top:60px
 }
 @media (max-width: 991px){
     .footer-area .footer-bottom{
